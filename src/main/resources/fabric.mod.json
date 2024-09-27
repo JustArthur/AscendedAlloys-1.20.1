@@ -1,0 +1,48 @@
+{
+	"schemaVersion": 1,
+	"id": "ascendedalloys",
+	"version": "${version}",
+	"name": "Ascended Alloys",
+	"description": "Ascended Alloys est un mod Minecraft qui enrichit l'artisanat avec des outils en cuivre et un système d'améliorations progressives.",
+	"authors": [
+		"su apt install Kuma"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"issues": "https://github.com/FabricMC/fabric-example-mod/issues",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/ascendedalloys/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.kuma.ascendedalloys.AscendedAlloys"
+		],
+		"client": [
+			"net.kuma.ascendedalloys.AscendedAlloysClient"
+		],
+		"fabric-datagen": [
+			"net.kuma.ascendedalloys.AscendedAlloysDataGenerator"
+		]
+	},
+	"mixins": [
+		"ascendedalloys.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.5",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	},
+	"custom": {
+		"modmenu": {
+			"links": {
+				"modmenu.wiki": "https://github.com/FabricMC/fabric-example-mod//wiki"
+			}
+		}
+	}
+}
