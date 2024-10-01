@@ -19,4 +19,4 @@ Use the **NEW SMITHING TEMPLATE** to upgrade your tools and armor!
 ![All smithing upgrades](./images/Smithing_upgrade.png)
 
 ---
-[![All Recipes Here](./images/all_recipes.png)](https://github.com/JustArthur/AscendedAlloys-1.20.1/WIKI.md)
+[![All Recipes Here](./images/all_recipes.png)](https://github.com/JustArthur/AscendedAlloys-1.20.1/blob/master/WIKI.md)
