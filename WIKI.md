@@ -19,20 +19,20 @@
 ![Iron_to_gold](./images/Gold.png)
 
 **The Enderite Smithing Table can only be found inside End Cities or traded with an Armorer Villager.**
-![End_City_Loot](./images/End_City.png)
+![End_City_Loot](./images/end_city.png)
 
 ---
 ---
 ![Duplicate Smithing Template](./images/duplicate_smithing_template.png)
 
-![stone](./images/Duplicate_stone.png)
-![copper](./images/Duplicate_copper.png)
-![iron](./images/Duplicate_iron.png)
-![gold](./images/Duplicate_gold.png)
-![diamond](./images/Duplicate_diamond.png)
-![amethyst](./images/Duplicate_amethyst.png)
-![netherite](./images/Duplicate_netherite.png)
-![enderite](./images/Duplicate_enderite.png)
+![stone](./images/duplicate_stone.png)
+![copper](./images/duplicate_copper.png)
+![iron](./images/duplicate_iron.png)
+![gold](./images/duplicate_gold.png)
+![diamond](./images/duplicate_diamond.png)
+![amethyst](./images/duplicate_amethyst.png)
+![netherite](./images/duplicate_netherite.png)
+![enderite](./images/duplicate_enderite.png)
 
 ---
 ---
