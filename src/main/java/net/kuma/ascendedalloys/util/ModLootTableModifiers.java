@@ -145,7 +145,7 @@ public class ModLootTableModifiers {
 
                 LootPool.Builder poolBuilder_3 = LootPool.builder()
                         .rolls(ConstantLootNumberProvider.create(1))
-                        .conditionally(RandomChanceLootCondition.builder(0.25f)) //0.25
+                        .conditionally(RandomChanceLootCondition.builder(0.2f)) //0.25
                         .with(ItemEntry.builder(ModItems.ENDERITE_SCRAP))
                         .apply(SetCountLootFunction.builder(UniformLootNumberProvider.create(1.0f, 3.0f)).build());
 

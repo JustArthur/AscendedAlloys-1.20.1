@@ -26,7 +26,7 @@ public class ModCustomTrades {
                             5, 6,0.07f));
                 });
 
-        TradeOfferHelper.registerVillagerOffers(VillagerProfession.ARMORER, 4,
+        TradeOfferHelper.registerVillagerOffers(VillagerProfession.ARMORER, 5,
                 factories -> {
                     factories.add((entity, random) -> new TradeOffer(
                             new ItemStack(Items.EMERALD, 64),
