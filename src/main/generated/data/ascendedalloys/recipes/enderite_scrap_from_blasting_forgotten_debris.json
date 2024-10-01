@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 1.0,
+  "group": "enderite",
+  "ingredient": {
+    "item": "ascendedalloys:forgotten_debris"
+  },
+  "result": "ascendedalloys:enderite_scrap"
+}

@@ -1,0 +1,84 @@
+{
+  "itemgroup.ascendedalloys.smithingtemplate": "Asc. Alloys : Smithing Templates",
+  "itemgroup.ascendedalloys.ingredients": "Asc. Alloys : Ingredients",
+  "itemgroup.ascendedalloys.equipment": "Asc. Alloys : Tools & Utilities",
+  "itemgroup.ascendedalloys.combat": "Asc. Alloys : Combat",
+  "itemgroup.ascendedalloys.blocks": "Asc. Alloys : Blocks",
+
+  "block.ascendedalloys.forgotten_debris": "Forgotten Debris",
+  "block.ascendedalloys.enderite_block": "Enderite Block",
+
+  "item.ascendedalloys.enderite_scrap": "Enderite Scrap",
+  "item.ascendedalloys.enderite_ingot": "Enderite Ingot",
+
+  "item.ascendedalloys.appliesTo_title": "Applies To :",
+  "item.ascendedalloys.ingredient_title": "Ingredients :",
+
+  "item.ascendedalloys.stone_upgrade_smithing_template": "Smithing Template",
+  "item.ascendedalloys.stone_upgrade_smithing_template.upgradeTo": "Stone Upgrade",
+  "item.ascendedalloys.stone_upgrade_smithing_template.appliesTo": " Wooden Tools",
+  "item.ascendedalloys.stone_upgrade_smithing_template.ingredient": " Cobblestone",
+
+  "item.ascendedalloys.copper_upgrade_smithing_template": "Smithing Template",
+  "item.ascendedalloys.copper_upgrade_smithing_template.upgradeTo": "Copper Upgrade",
+  "item.ascendedalloys.copper_upgrade_smithing_template.appliesTo": " Stone Tools",
+  "item.ascendedalloys.copper_upgrade_smithing_template.ingredient": " Copper Ingot",
+
+  "item.ascendedalloys.iron_upgrade_smithing_template": "Smithing Template",
+  "item.ascendedalloys.iron_upgrade_smithing_template.upgradeTo": "Iron Upgrade",
+  "item.ascendedalloys.iron_upgrade_smithing_template.appliesTo": " Copper Equipment",
+  "item.ascendedalloys.iron_upgrade_smithing_template.ingredient": " Iron Ingot",
+
+  "item.ascendedalloys.gold_upgrade_smithing_template": "Smithing Template",
+  "item.ascendedalloys.gold_upgrade_smithing_template.upgradeTo": "Gold Upgrade",
+  "item.ascendedalloys.gold_upgrade_smithing_template.appliesTo": " Iron Equipment",
+  "item.ascendedalloys.gold_upgrade_smithing_template.ingredient": " Gold Ingot",
+
+  "item.ascendedalloys.diamond_upgrade_smithing_template": "Smithing Template",
+  "item.ascendedalloys.diamond_upgrade_smithing_template.upgradeTo": "Diamond Upgrade",
+  "item.ascendedalloys.diamond_upgrade_smithing_template.appliesTo": " Iron Equipment",
+  "item.ascendedalloys.diamond_upgrade_smithing_template.ingredient": " Diamond",
+
+  "item.ascendedalloys.amethyst_upgrade_smithing_template": "Smithing Template",
+  "item.ascendedalloys.amethyst_upgrade_smithing_template.upgradeTo": "Amethyst Upgrade",
+  "item.ascendedalloys.amethyst_upgrade_smithing_template.appliesTo": " Diamond Equipment",
+  "item.ascendedalloys.amethyst_upgrade_smithing_template.ingredient": " Amethyst",
+
+  "item.ascendedalloys.enderite_upgrade_smithing_template": "Smithing Template",
+  "item.ascendedalloys.enderite_upgrade_smithing_template.upgradeTo": "Enderite Upgrade",
+  "item.ascendedalloys.enderite_upgrade_smithing_template.appliesTo": " Netherite Equipment",
+  "item.ascendedalloys.enderite_upgrade_smithing_template.ingredient": " Enderite Ingot",
+
+  "item.ascendedalloys.copper_axe": "Copper Axe",
+  "item.ascendedalloys.copper_hoe": "Copper Hoe",
+  "item.ascendedalloys.copper_pickaxe": "Copper Pickaxe",
+  "item.ascendedalloys.copper_shovel": "Copper Shovel",
+  "item.ascendedalloys.copper_sword": "Copper Sword",
+
+  "item.ascendedalloys.amethyst_axe": "Amethyst Axe",
+  "item.ascendedalloys.amethyst_hoe": "Amethyst Hoe",
+  "item.ascendedalloys.amethyst_pickaxe": "Amethyst Pickaxe",
+  "item.ascendedalloys.amethyst_shovel": "Amethyst Shovel",
+  "item.ascendedalloys.amethyst_sword": "Amethyst Sword",
+
+  "item.ascendedalloys.enderite_axe": "Enderite Axe",
+  "item.ascendedalloys.enderite_hoe": "Enderite Hoe",
+  "item.ascendedalloys.enderite_pickaxe": "Enderite Pickaxe",
+  "item.ascendedalloys.enderite_shovel": "Enderite Shovel",
+  "item.ascendedalloys.enderite_sword": "Enderite Sword",
+
+  "item.ascendedalloys.copper_helmet": "Copper Helmet",
+  "item.ascendedalloys.copper_chestplate": "Copper Chestplate",
+  "item.ascendedalloys.copper_leggings": "Copper Leggings",
+  "item.ascendedalloys.copper_boots": "Copper Boots",
+
+  "item.ascendedalloys.amethyst_helmet": "Amethyst Helmet",
+  "item.ascendedalloys.amethyst_chestplate": "Amethyst Chestplate",
+  "item.ascendedalloys.amethyst_leggings": "Amethyst Leggings",
+  "item.ascendedalloys.amethyst_boots": "Amethyst Boots",
+
+  "item.ascendedalloys.enderite_helmet": "Enderite Helmet",
+  "item.ascendedalloys.enderite_chestplate": "Enderite Chestplate",
+  "item.ascendedalloys.enderite_leggings": "Enderite Leggings",
+  "item.ascendedalloys.enderite_boots": "Enderite Boots"
+}

@@ -1,0 +1,84 @@
+{
+  "itemgroup.ascendedalloys.smithingtemplate": "Asc. Alloys : Modèle de forges",
+  "itemgroup.ascendedalloys.ingredients": "Asc. Alloys : Ingrédients",
+  "itemgroup.ascendedalloys.equipment": "Asc. Alloys : Outils et utilitaires",
+  "itemgroup.ascendedalloys.combat": "Asc. Alloys : Combat",
+  "itemgroup.ascendedalloys.blocks": "Asc. Alloys : Blocs",
+
+  "block.ascendedalloys.forgotten_debris": "Débris oublié",
+  "block.ascendedalloys.enderite_block": "Bloc d'enderite",
+
+  "item.ascendedalloys.enderite_scrap": "Fragment d'enderite",
+  "item.ascendedalloys.enderite_ingot": "Lingot d'enderite",
+
+  "item.ascendedalloys.appliesTo_title": "S'applique à :",
+  "item.ascendedalloys.ingredient_title": "Ingrédients :",
+
+  "item.ascendedalloys.stone_upgrade_smithing_template": "Modèle de forge",
+  "item.ascendedalloys.stone_upgrade_smithing_template.upgradeTo": "Amélioration en pierre",
+  "item.ascendedalloys.stone_upgrade_smithing_template.appliesTo": " Outils en bois",
+  "item.ascendedalloys.stone_upgrade_smithing_template.ingredient": " Pierres",
+
+  "item.ascendedalloys.copper_upgrade_smithing_template": "Modèle de forge",
+  "item.ascendedalloys.copper_upgrade_smithing_template.upgradeTo": "Amélioration en cuivre",
+  "item.ascendedalloys.copper_upgrade_smithing_template.appliesTo": " Outils en pierre",
+  "item.ascendedalloys.copper_upgrade_smithing_template.ingredient": " Lingot de cuivre",
+
+  "item.ascendedalloys.iron_upgrade_smithing_template": "Modèle de forge",
+  "item.ascendedalloys.iron_upgrade_smithing_template.upgradeTo": "Amélioration en fer",
+  "item.ascendedalloys.iron_upgrade_smithing_template.appliesTo": " Equipement en cuivre",
+  "item.ascendedalloys.iron_upgrade_smithing_template.ingredient": " Lingot de fer",
+
+  "item.ascendedalloys.gold_upgrade_smithing_template": "Modèle de forge",
+  "item.ascendedalloys.gold_upgrade_smithing_template.upgradeTo": "Amélioration en or",
+  "item.ascendedalloys.gold_upgrade_smithing_template.appliesTo": " Equipement en fer",
+  "item.ascendedalloys.gold_upgrade_smithing_template.ingredient": " Lingot d'or",
+
+  "item.ascendedalloys.diamond_upgrade_smithing_template": "Modèle de forge",
+  "item.ascendedalloys.diamond_upgrade_smithing_template.upgradeTo": "Amélioration en diamant",
+  "item.ascendedalloys.diamond_upgrade_smithing_template.appliesTo": " Equipement en fer",
+  "item.ascendedalloys.diamond_upgrade_smithing_template.ingredient": " Diamant",
+
+  "item.ascendedalloys.amethyst_upgrade_smithing_template": "Modèle de forge",
+  "item.ascendedalloys.amethyst_upgrade_smithing_template.upgradeTo": "Amélioration en Améthyste",
+  "item.ascendedalloys.amethyst_upgrade_smithing_template.appliesTo": " Equipement en diamant",
+  "item.ascendedalloys.amethyst_upgrade_smithing_template.ingredient": " Améthyste",
+
+  "item.ascendedalloys.enderite_upgrade_smithing_template": "Modèle de forge",
+  "item.ascendedalloys.enderite_upgrade_smithing_template.upgradeTo": "Amélioration en enderite",
+  "item.ascendedalloys.enderite_upgrade_smithing_template.appliesTo": " Equipement en netherite",
+  "item.ascendedalloys.enderite_upgrade_smithing_template.ingredient": " Lingot d'enderite",
+
+  "item.ascendedalloys.copper_axe": "Hache en cuivre",
+  "item.ascendedalloys.copper_hoe": "Houe en cuivre",
+  "item.ascendedalloys.copper_pickaxe": "Pioche en cuivre",
+  "item.ascendedalloys.copper_shovel": "Pelle en cuivre",
+  "item.ascendedalloys.copper_sword": "Epée en cuivre",
+
+  "item.ascendedalloys.amethyst_axe": "Hache en améthyste",
+  "item.ascendedalloys.amethyst_hoe": "Houe en améthyste",
+  "item.ascendedalloys.amethyst_pickaxe": "Pioche en améthyste",
+  "item.ascendedalloys.amethyst_shovel": "Pelle en améthyste",
+  "item.ascendedalloys.amethyst_sword": "Epée en améthyste",
+
+  "item.ascendedalloys.enderite_axe": "Hache en enderite",
+  "item.ascendedalloys.enderite_hoe": "Houe en enderite",
+  "item.ascendedalloys.enderite_pickaxe": "Pioche en enderite",
+  "item.ascendedalloys.enderite_shovel": "Pelle en enderite",
+  "item.ascendedalloys.enderite_sword": "Epée en enderite",
+
+  "item.ascendedalloys.copper_helmet": "Casque en cuivre",
+  "item.ascendedalloys.copper_chestplate": "Plastron en cuivre",
+  "item.ascendedalloys.copper_leggings": "Jambière en cuivre",
+  "item.ascendedalloys.copper_boots": "Bottes en cuivre",
+
+  "item.ascendedalloys.amethyst_helmet": "Casque en améthyste",
+  "item.ascendedalloys.amethyst_chestplate": "Plastron en améthyste",
+  "item.ascendedalloys.amethyst_leggings": "Jambière en améthyste",
+  "item.ascendedalloys.amethyst_boots": "Bottes en améthyste",
+
+  "item.ascendedalloys.enderite_helmet": "Casque en enderite",
+  "item.ascendedalloys.enderite_chestplate": "Plastron en enderite",
+  "item.ascendedalloys.enderite_leggings": "Jambière en enderite",
+  "item.ascendedalloys.enderite_boots": "Bottes en enderite"
+}

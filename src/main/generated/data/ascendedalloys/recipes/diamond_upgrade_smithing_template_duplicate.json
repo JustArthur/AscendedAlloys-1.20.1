@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:diamond"
+    },
+    "O": {
+      "item": "minecraft:diamond_block"
+    },
+    "S": {
+      "item": "ascendedalloys:diamond_upgrade_smithing_template"
+    }
+  },
+  "pattern": [
+    "#S#",
+    "#O#",
+    "###"
+  ],
+  "result": {
+    "count": 2,
+    "item": "ascendedalloys:diamond_upgrade_smithing_template"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "ascendedalloys:block/forgotten_debris_top",
+    "side": "ascendedalloys:block/forgotten_debris_side"
+  }
+}

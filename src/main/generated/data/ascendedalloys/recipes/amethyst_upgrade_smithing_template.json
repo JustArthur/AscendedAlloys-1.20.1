@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "O": {
+      "item": "minecraft:diamond"
+    },
+    "S": {
+      "item": "ascendedalloys:diamond_upgrade_smithing_template"
+    }
+  },
+  "pattern": [
+    "#S#",
+    "#O#",
+    "###"
+  ],
+  "result": {
+    "item": "ascendedalloys:amethyst_upgrade_smithing_template"
+  },
+  "show_notification": true
+}

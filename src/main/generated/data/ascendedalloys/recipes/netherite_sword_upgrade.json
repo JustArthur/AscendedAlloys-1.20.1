@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "ascendedalloys:enderite_ingot"
+  },
+  "base": {
+    "item": "minecraft:netherite_sword"
+  },
+  "result": {
+    "item": "ascendedalloys:enderite_sword"
+  },
+  "template": {
+    "item": "ascendedalloys:enderite_upgrade_smithing_template"
+  }
+}
