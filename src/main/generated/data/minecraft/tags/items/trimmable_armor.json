@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "ascendedalloys:copper_helmet",
+    "ascendedalloys:copper_chestplate",
+    "ascendedalloys:copper_leggings",
+    "ascendedalloys:copper_boots",
+    "ascendedalloys:amethyst_helmet",
+    "ascendedalloys:amethyst_chestplate",
+    "ascendedalloys:amethyst_leggings",
+    "ascendedalloys:amethyst_boots",
+    "ascendedalloys:enderite_helmet",
+    "ascendedalloys:enderite_chestplate",
+    "ascendedalloys:enderite_leggings",
+    "ascendedalloys:enderite_boots"
+  ]
+}

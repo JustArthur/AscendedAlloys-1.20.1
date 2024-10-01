@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "enderite",
+  "key": {
+    "#": {
+      "item": "ascendedalloys:enderite_ingot"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "ascendedalloys:enderite_block"
+  },
+  "show_notification": true
+}

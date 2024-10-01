@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:copper_ingot"
+    },
+    "O": {
+      "item": "minecraft:cobblestone"
+    },
+    "S": {
+      "item": "ascendedalloys:stone_upgrade_smithing_template"
+    }
+  },
+  "pattern": [
+    "#S#",
+    "#O#",
+    "###"
+  ],
+  "result": {
+    "item": "ascendedalloys:copper_upgrade_smithing_template"
+  },
+  "show_notification": true
+}

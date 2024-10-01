@@ -1,0 +1,41 @@
+{
+  "itemgroup.ascendedalloys": "Ascended Alloys",
+
+  "block.ascendedalloys.forgotten_debris": "Forgotten Debris",
+  "block.ascendedalloys.enderite_block": "Enderite Block",
+
+  "item.ascendedalloys.enderite_scrap": "Enderite Scrap",
+  "item.ascendedalloys.enderite_ingot": "Enderite Ingot",
+
+  "item.ascendedalloys.stone_upgrade_smithing_template": "Smithing Template",
+  "item.ascendedalloys.stone_upgrade_smithing_template.upgradeTo": "Stone Upgrade",
+  "item.ascendedalloys.stone_upgrade_smithing_template.appliesTo": " Wooden Tools",
+  "item.ascendedalloys.stone_upgrade_smithing_template.ingredient": " Cobblestone",
+
+  "item.ascendedalloys.copper_upgrade_smithing_template": "Smithing Template",
+  "item.ascendedalloys.copper_upgrade_smithing_template.upgradeTo": "Copper Upgrade",
+  "item.ascendedalloys.copper_upgrade_smithing_template.appliesTo": " Stone Tools",
+  "item.ascendedalloys.copper_upgrade_smithing_template.ingredient": " Copper Ingot",
+
+  "item.ascendedalloys.iron_upgrade_smithing_template": "Smithing Template",
+  "item.ascendedalloys.iron_upgrade_smithing_template.upgradeTo": "Iron Upgrade",
+  "item.ascendedalloys.iron_upgrade_smithing_template.appliesTo": " Copper Equipement",
+  "item.ascendedalloys.iron_upgrade_smithing_template.ingredient": " Iron Ingot",
+
+  "item.ascendedalloys.gold_upgrade_smithing_template": "Smithing Template",
+  "item.ascendedalloys.gold_upgrade_smithing_template.upgradeTo": "Gold Upgrade",
+  "item.ascendedalloys.gold_upgrade_smithing_template.appliesTo": " Iron Equipement",
+  "item.ascendedalloys.gold_upgrade_smithing_template.ingredient": " Gold Ingot",
+
+  "item.ascendedalloys.diamond_upgrade_smithing_template": "Smithing Template",
+  "item.ascendedalloys.diamond_upgrade_smithing_template.upgradeTo": "Diamond Upgrade",
+  "item.ascendedalloys.diamond_upgrade_smithing_template.appliesTo": " Iron Equipement",
+  "item.ascendedalloys.diamond_upgrade_smithing_template.ingredient": " Diamond",
+
+  "item.ascendedalloys.enderite_upgrade_smithing_template": "Smithing Template",
+  "item.ascendedalloys.enderite_upgrade_smithing_template.upgradeTo": "Enderite Upgrade",
+  "item.ascendedalloys.enderite_upgrade_smithing_template.appliesTo": " Netherite Equipement",
+  "item.ascendedalloys.enderite_upgrade_smithing_template.ingredient": " Enderite",
+
+  "item.ascendedalloys.copper_pickaxe": "Copper Pickaxe"
+}

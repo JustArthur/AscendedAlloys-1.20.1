@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "ascendedalloys:enderite_scrap"
+    },
+    "O": {
+      "item": "ascendedalloys:enderite_ingot"
+    },
+    "S": {
+      "item": "ascendedalloys:enderite_upgrade_smithing_template"
+    }
+  },
+  "pattern": [
+    "#S#",
+    "#O#",
+    "###"
+  ],
+  "result": {
+    "count": 2,
+    "item": "ascendedalloys:enderite_upgrade_smithing_template"
+  },
+  "show_notification": true
+}

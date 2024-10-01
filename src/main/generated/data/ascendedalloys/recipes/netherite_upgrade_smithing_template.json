@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "O": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "S": {
+      "item": "ascendedalloys:amethyst_upgrade_smithing_template"
+    }
+  },
+  "pattern": [
+    "#S#",
+    "#O#",
+    "GGG"
+  ],
+  "result": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
+  },
+  "show_notification": true
+}
