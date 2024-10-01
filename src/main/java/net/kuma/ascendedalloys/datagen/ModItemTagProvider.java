@@ -17,9 +17,9 @@ public class ModItemTagProvider extends FabricTagProvider.ItemTagProvider {
     protected void configure(RegistryWrapper.WrapperLookup arg) {
         getOrCreateTagBuilder(ItemTags.TRIMMABLE_ARMOR)
                 .add(
-                        ModItems.COPPER_HELMET, ModItems.COPPER_CHESPLATE, ModItems.COPPER_LEGGINGS, ModItems.COPPER_BOOTS,
-                        ModItems.AMETHYST_HELMET, ModItems.AMETHYST_CHESPLATE, ModItems.AMETHYST_LEGGINGS, ModItems.AMETHYST_BOOTS,
-                        ModItems.ENDERITE_HELMET, ModItems.ENDERITE_CHESPLATE, ModItems.ENDERITE_LEGGINGS, ModItems.ENDERITE_BOOTS
+                        ModItems.COPPER_HELMET, ModItems.COPPER_CHESTPLATE, ModItems.COPPER_LEGGINGS, ModItems.COPPER_BOOTS,
+                        ModItems.AMETHYST_HELMET, ModItems.AMETHYST_CHESTPLATE, ModItems.AMETHYST_LEGGINGS, ModItems.AMETHYST_BOOTS,
+                        ModItems.ENDERITE_HELMET, ModItems.ENDERITE_CHESTPLATE, ModItems.ENDERITE_LEGGINGS, ModItems.ENDERITE_BOOTS
                 );
     }
 }

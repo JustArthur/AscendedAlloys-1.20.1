@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:iron_ingot"
+  },
+  "base": {
+    "item": "ascendedalloys:copper_chestplate"
+  },
+  "result": {
+    "item": "minecraft:iron_chestplate"
+  },
+  "template": {
+    "item": "ascendedalloys:iron_upgrade_smithing_template"
+  }
+}

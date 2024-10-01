@@ -30,7 +30,7 @@ public class ModItems {
     public static final Item COPPER_SHOVEL = registerItem("copper_shovel", new ShovelItem(ModToolsMaterial.COPPER, 1, -3f, new FabricItemSettings()));
     public static final Item COPPER_SWORD = registerItem("copper_sword", new SwordItem(ModToolsMaterial.COPPER, 3, -2.4f, new FabricItemSettings()));
     public static final Item COPPER_HELMET = registerItem("copper_helmet", new ArmorItem(ModArmorMaterials.COPPER, ArmorItem.Type.HELMET, new FabricItemSettings()));
-    public static final Item COPPER_CHESPLATE = registerItem("copper_chestplate", new ArmorItem(ModArmorMaterials.COPPER, ArmorItem.Type.CHESTPLATE, new FabricItemSettings()));
+    public static final Item COPPER_CHESTPLATE = registerItem("copper_chestplate", new ArmorItem(ModArmorMaterials.COPPER, ArmorItem.Type.CHESTPLATE, new FabricItemSettings()));
     public static final Item COPPER_LEGGINGS = registerItem("copper_leggings", new ArmorItem(ModArmorMaterials.COPPER, ArmorItem.Type.LEGGINGS, new FabricItemSettings()));
     public static final Item COPPER_BOOTS = registerItem("copper_boots", new ArmorItem(ModArmorMaterials.COPPER, ArmorItem.Type.BOOTS, new FabricItemSettings()));
 
@@ -41,7 +41,7 @@ public class ModItems {
     public static final Item AMETHYST_SHOVEL = registerItem("amethyst_shovel", new ShovelItem(ModToolsMaterial.AMETHYST, 1, -3f, new FabricItemSettings()));
     public static final Item AMETHYST_SWORD = registerItem("amethyst_sword", new SwordItem(ModToolsMaterial.AMETHYST, 3, -2.4f, new FabricItemSettings()));
     public static final Item AMETHYST_HELMET = registerItem("amethyst_helmet", new ArmorItem(ModArmorMaterials.AMETHYST, ArmorItem.Type.HELMET, new FabricItemSettings()));
-    public static final Item AMETHYST_CHESPLATE = registerItem("amethyst_chestplate", new ArmorItem(ModArmorMaterials.AMETHYST, ArmorItem.Type.CHESTPLATE, new FabricItemSettings()));
+    public static final Item AMETHYST_CHESTPLATE = registerItem("amethyst_chestplate", new ArmorItem(ModArmorMaterials.AMETHYST, ArmorItem.Type.CHESTPLATE, new FabricItemSettings()));
     public static final Item AMETHYST_LEGGINGS = registerItem("amethyst_leggings", new ArmorItem(ModArmorMaterials.AMETHYST, ArmorItem.Type.LEGGINGS, new FabricItemSettings()));
     public static final Item AMETHYST_BOOTS = registerItem("amethyst_boots", new ArmorItem(ModArmorMaterials.AMETHYST, ArmorItem.Type.BOOTS, new FabricItemSettings()));
 
@@ -54,7 +54,7 @@ public class ModItems {
     public static final Item ENDERITE_SHOVEL = registerItem("enderite_shovel", new ShovelItem(ModToolsMaterial.ENDERITE, 1, -2f, new FabricItemSettings()));
     public static final Item ENDERITE_SWORD = registerItem("enderite_sword", new SwordItem(ModToolsMaterial.ENDERITE, 3, -2f, new FabricItemSettings()));
     public static final Item ENDERITE_HELMET = registerItem("enderite_helmet", new ArmorItem(ModArmorMaterials.ENDERITE, ArmorItem.Type.HELMET, new FabricItemSettings()));
-    public static final Item ENDERITE_CHESPLATE = registerItem("enderite_chestplate", new ArmorItem(ModArmorMaterials.ENDERITE, ArmorItem.Type.CHESTPLATE, new FabricItemSettings()));
+    public static final Item ENDERITE_CHESTPLATE = registerItem("enderite_chestplate", new ArmorItem(ModArmorMaterials.ENDERITE, ArmorItem.Type.CHESTPLATE, new FabricItemSettings()));
     public static final Item ENDERITE_LEGGINGS = registerItem("enderite_leggings", new ArmorItem(ModArmorMaterials.ENDERITE, ArmorItem.Type.LEGGINGS, new FabricItemSettings()));
     public static final Item ENDERITE_BOOTS = registerItem("enderite_boots", new ArmorItem(ModArmorMaterials.ENDERITE, ArmorItem.Type.BOOTS, new FabricItemSettings()));
 

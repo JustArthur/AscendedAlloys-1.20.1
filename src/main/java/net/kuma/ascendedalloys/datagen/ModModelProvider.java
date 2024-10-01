@@ -9,7 +9,6 @@ import net.minecraft.data.client.ItemModelGenerator;
 import net.minecraft.data.client.Models;
 import net.minecraft.data.client.TexturedModel;
 import net.minecraft.item.ArmorItem;
-import net.minecraft.world.gen.chunk.BlockColumn;
 
 public class ModModelProvider extends FabricModelProvider {
     public ModModelProvider(FabricDataOutput output) { super(output);}
@@ -38,7 +37,7 @@ public class ModModelProvider extends FabricModelProvider {
         itemModelGenerator.register(ModItems.COPPER_SHOVEL, Models.HANDHELD);
         itemModelGenerator.register(ModItems.COPPER_SWORD, Models.HANDHELD);
         itemModelGenerator.registerArmor(((ArmorItem) ModItems.COPPER_HELMET));
-        itemModelGenerator.registerArmor(((ArmorItem) ModItems.COPPER_CHESPLATE));
+        itemModelGenerator.registerArmor(((ArmorItem) ModItems.COPPER_CHESTPLATE));
         itemModelGenerator.registerArmor(((ArmorItem) ModItems.COPPER_LEGGINGS));
         itemModelGenerator.registerArmor(((ArmorItem) ModItems.COPPER_BOOTS));
 
@@ -49,7 +48,7 @@ public class ModModelProvider extends FabricModelProvider {
         itemModelGenerator.register(ModItems.AMETHYST_SHOVEL, Models.HANDHELD);
         itemModelGenerator.register(ModItems.AMETHYST_SWORD, Models.HANDHELD);
         itemModelGenerator.registerArmor(((ArmorItem) ModItems.AMETHYST_HELMET));
-        itemModelGenerator.registerArmor(((ArmorItem) ModItems.AMETHYST_CHESPLATE));
+        itemModelGenerator.registerArmor(((ArmorItem) ModItems.AMETHYST_CHESTPLATE));
         itemModelGenerator.registerArmor(((ArmorItem) ModItems.AMETHYST_LEGGINGS));
         itemModelGenerator.registerArmor(((ArmorItem) ModItems.AMETHYST_BOOTS));
 
@@ -62,7 +61,7 @@ public class ModModelProvider extends FabricModelProvider {
         itemModelGenerator.register(ModItems.ENDERITE_SHOVEL, Models.HANDHELD);
         itemModelGenerator.register(ModItems.ENDERITE_SWORD, Models.HANDHELD);
         itemModelGenerator.registerArmor(((ArmorItem) ModItems.ENDERITE_HELMET));
-        itemModelGenerator.registerArmor(((ArmorItem) ModItems.ENDERITE_CHESPLATE));
+        itemModelGenerator.registerArmor(((ArmorItem) ModItems.ENDERITE_CHESTPLATE));
         itemModelGenerator.registerArmor(((ArmorItem) ModItems.ENDERITE_LEGGINGS));
         itemModelGenerator.registerArmor(((ArmorItem) ModItems.ENDERITE_BOOTS));
 

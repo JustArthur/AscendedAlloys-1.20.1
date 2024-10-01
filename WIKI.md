@@ -1,42 +1,42 @@
-![New craft recipe for Smithing Table](./images/new_smithing_table.png)
+![New craft recipe for Smithing Table](https://github.com/JustArthur/AscendedAlloys-1.20.1/blob/master/images/new_smithing_table.png?raw=true)
 
-![Modded One](./images/modded_smithing.png)
-![Vanilla Smithing Table](./images/vanilla_smithing.png)\
+![Modded One](https://github.com/JustArthur/AscendedAlloys-1.20.1/blob/master/images/modded_smithing.png?raw=true)
+![Vanilla Smithing Table](https://github.com/JustArthur/AscendedAlloys-1.20.1/blob/master/images/vanilla_smithing.png?raw=true)\
 **Vanilla recipe for the smithing table works**
 
 ---
 ---
-![Create Smithing Template](./images/create_smithing_template.png)
+![Create Smithing Template](https://github.com/JustArthur/AscendedAlloys-1.20.1/blob/master/images/create_smithing_template.png?raw=true)
 
-![Wooden_to_stone](./images/Stone.png)
-![Stone_to_copper](./images/Copper.png)
-![Copper_to_Iron](./images/Iron.png)
-![Iron_to_diamond](./images/Diamond.png)
-![Diamond_to_amethyst](./images/Amethyst.png)
-![Amethyst_to_netherite](./images/Netherite.png)\
+![Wooden_to_stone](https://github.com/JustArthur/AscendedAlloys-1.20.1/blob/master/images/Stone.png?raw=true)
+![Stone_to_copper](https://github.com/JustArthur/AscendedAlloys-1.20.1/blob/master/images/Copper.png?raw=true)
+![Copper_to_Iron](https://github.com/JustArthur/AscendedAlloys-1.20.1/blob/master/images/Iron.png?raw=true)
+![Iron_to_diamond](https://github.com/JustArthur/AscendedAlloys-1.20.1/blob/master/images/Diamond.png?raw=true)
+![Diamond_to_amethyst](https://github.com/JustArthur/AscendedAlloys-1.20.1/blob/master/images/Amethyst.png?raw=true)
+![Amethyst_to_netherite](https://github.com/JustArthur/AscendedAlloys-1.20.1/blob/master/images/Netherite.png?raw=true)
 
 ⚠️ You don't need a gold level to create Diamond Equipment\
-![Iron_to_gold](./images/Gold.png)
+![Iron_to_gold](https://github.com/JustArthur/AscendedAlloys-1.20.1/blob/master/images/Gold.png?raw=true)
 
-**The Enderite Smithing Table can only be found inside End Cities or traded with an Armorer Villager.**
-![End_City_Loot](./images/end_city.png)
-
----
----
-![Duplicate Smithing Template](./images/duplicate_smithing_template.png)
-
-![stone](./images/duplicate_stone.png)
-![copper](./images/duplicate_copper.png)
-![iron](./images/duplicate_iron.png)
-![gold](./images/duplicate_gold.png)
-![diamond](./images/duplicate_diamond.png)
-![amethyst](./images/duplicate_amethyst.png)
-![netherite](./images/duplicate_netherite.png)
-![enderite](./images/duplicate_enderite.png)
+**The Enderite Smithing Table can only be found inside End Cities or traded with an Armorer Villager**\
+![End_City_Loot](https://github.com/JustArthur/AscendedAlloys-1.20.1/blob/master/images/end_city.png?raw=true)
 
 ---
 ---
-![Drop Chance](./images/drop_chance.png)
+![Duplicate Smithing Template](https://github.com/JustArthur/AscendedAlloys-1.20.1/blob/master/images/duplicate_smithing_template.png?raw=true)
+
+![stone](https://github.com/JustArthur/AscendedAlloys-1.20.1/blob/master/images/duplicate_stone.png?raw=true)
+![copper](https://github.com/JustArthur/AscendedAlloys-1.20.1/blob/master/images/duplicate_copper.png?raw=true)
+![iron](https://github.com/JustArthur/AscendedAlloys-1.20.1/blob/master/images/duplicate_iron.png?raw=true)
+![gold](https://github.com/JustArthur/AscendedAlloys-1.20.1/blob/master/images/duplicate_gold.png?raw=true)
+![diamond](https://github.com/JustArthur/AscendedAlloys-1.20.1/blob/master/images/duplicate_diamond.png?raw=true)
+![amethyst](https://github.com/JustArthur/AscendedAlloys-1.20.1/blob/master/images/duplicate_amethyst.png?raw=true)
+![netherite](https://github.com/JustArthur/AscendedAlloys-1.20.1/blob/master/images/duplicate_netherite.png?raw=true)
+![enderite](https://github.com/JustArthur/AscendedAlloys-1.20.1/blob/master/images/duplicate_enderite.png?raw=true)
+
+---
+---
+![Drop Chance](https://github.com/JustArthur/AscendedAlloys-1.20.1/blob/master/images/drop_chance.png?raw=true)
 
 - **Small underwater ruin**\
     ↪ 25% chance for a Golden Upgrade, only one
@@ -72,7 +72,7 @@
 
 ---
 ---
-![Villager Trade](./images/villager_trades.png)
+![Villager Trade](https://github.com/JustArthur/AscendedAlloys-1.20.1/blob/master/images/villager_trades.png?raw=true)
 
 - **TOOLSMITH - Level 2**\
     ↪ 1 Iron upgrade for 5 emeralds
