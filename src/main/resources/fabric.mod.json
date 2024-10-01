@@ -8,7 +8,7 @@
 		"su apt install Kuma"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
+		"homepage": "https://modrinth.com/mod/ascendedalloys",
 		"issues": "https://github.com/JustArthur/AscendedAlloys-1.20.1/issues",
 		"sources": "https://github.com/JustArthur/AscendedAlloys-1.20.1"
 	},
@@ -41,7 +41,7 @@
 	"custom": {
 		"modmenu": {
 			"links": {
-				"modmenu.wiki": "https://github.com/JustArthur/AscendedAlloys-1.20.1/wiki.md"
+				"modmenu.wiki": "https://github.com/JustArthur/AscendedAlloys-1.20.1/blob/master/WIKI.md"
 			}
 		}
 	}

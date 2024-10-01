@@ -61,15 +61,15 @@ public class ModItemGroups {
 
                         //Armors
                         entries.add(ModItems.COPPER_HELMET);
-                        entries.add(ModItems.COPPER_CHESPLATE);
+                        entries.add(ModItems.COPPER_CHESTPLATE);
                         entries.add(ModItems.COPPER_LEGGINGS);
                         entries.add(ModItems.COPPER_BOOTS);
                         entries.add(ModItems.AMETHYST_HELMET);
-                        entries.add(ModItems.AMETHYST_CHESPLATE);
+                        entries.add(ModItems.AMETHYST_CHESTPLATE);
                         entries.add(ModItems.AMETHYST_LEGGINGS);
                         entries.add(ModItems.AMETHYST_BOOTS);
                         entries.add(ModItems.ENDERITE_HELMET);
-                        entries.add(ModItems.ENDERITE_CHESPLATE);
+                        entries.add(ModItems.ENDERITE_CHESTPLATE);
                         entries.add(ModItems.ENDERITE_LEGGINGS);
                         entries.add(ModItems.ENDERITE_BOOTS);
 
